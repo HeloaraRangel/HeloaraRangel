@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá!! Eu sou a Heloara 😊
 
-<!--
-**HeloaraRangel/HeloaraRangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Explorando o universo da programação
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning Languages
+ <div style="display: flex; align-items: center;">
+  <img style="margin-right:;" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</div>
+
+###
+<div>
+  <a href="https://instagram.com/heloara_rangel" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  <a href="mailto:heloararangelteixeira@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+</div>
+
+
+          
+          
+
+          
+

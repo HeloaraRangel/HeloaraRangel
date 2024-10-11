@@ -1,4 +1,4 @@
-# Olá!! Eu sou a Heloara 😊
+# Olá! Eu sou a Heloara e estou no 4° Período de Sistemas de Informação 😊
 
 🔭 Explorando o universo da programação
 
